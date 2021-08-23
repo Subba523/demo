@@ -4,7 +4,7 @@ public class Welcome {
 
 	public static void main(String []args)
 	{
-		System.out.println("Hello welcome to my world");
+		System.out.println("Hello welcome to my new world");
 	}
 
 }
